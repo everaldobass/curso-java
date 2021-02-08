@@ -1,10 +1,10 @@
-package aulas.java.com;
+package br.com.logicadeprogramacao;
 
 public class Principal {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Aulas de Java no Git ");
+		System.out.println("Curso Lógica de Programação! ");
 
 	}
 
